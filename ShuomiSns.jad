@@ -1,0 +1,7 @@
+MIDlet-1: 烁米SNS,,main.MainApp
+MIDlet-Jar-URL: ShuomiSns.jar
+MIDlet-Name: 烁米SNS
+MIDlet-Vendor: NCCC Studio
+MIDlet-Version: 1.0.4
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
